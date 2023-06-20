@@ -1,0 +1,2 @@
+- Run API on localhost:3000 with comand "node index.js"
+- Run frontend with comand "npm run dev"
