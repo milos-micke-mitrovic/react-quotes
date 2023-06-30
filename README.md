@@ -1,2 +1,3 @@
-- Run API on localhost:3000 with comand "node index.js"
+- Go to folder "backend-epxress" and run API on localhost:3000 with comand "node index.js"
 - Run frontend with comand "npm run dev"
+- Enjoy app
